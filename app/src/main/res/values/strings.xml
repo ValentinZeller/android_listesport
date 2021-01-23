@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ZELLER:ListeSport</string>
+    <string name="txtDetail">texte detail</string>
+    <string name="imgDetail">image detail</string>
+    <string-array name="sport">
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Tennis</item>
+        <item>Rugby</item>
+        <item>Golf</item>
+        <item>Boxe</item>
+    </string-array>
+    <string-array name="sport_detail">
+        <item>Le football /futbol/ (ou dans le langage courant simplement foot, par apocope), ou soccer (/sɔkœʁ/, en anglais : [ˈsɑkə]; en Amérique du Nord), est un sport collectif qui se joue avec un ballon sphérique entre deux équipes de onze joueurs. Elles s\'opposent sur un terrain rectangulaire délimité, équipé de buts définis sur les largeurs opposées. L\'objectif de chaque camp est de mettre le ballon dans le but adverse, sans utiliser les bras, et de le faire plus souvent que l\'autre équipe.</item>
+        <item>Le basket-ball ou basketball4, fréquemment désigné en français par son abréviation basket, est un sport de balle et sport collectif opposant deux équipes de cinq joueurs sur un terrain rectangulaire. L\'objectif de chaque équipe est de faire passer un ballon au sein d\'un arceau de 46 cm de diamètre, fixé à un panneau et placé à 3,05 m du sol : le panier. Chaque panier inscrit rapporte deux points à son équipe, à l\'exception des tirs effectués au-delà de la ligne des trois points qui rapportent trois points et des lancers francs accordés à la suite d\'une faute qui rapportent un point. L\'équipe avec le nombre de points le plus important remporte la partie. </item>
+        <item>Le tennis est un sport de raquette qui oppose soit deux joueurs (on parle alors de jeu en simple) soit quatre joueurs qui forment deux équipes de deux (on parle alors de jeu en double). Les joueurs utilisent une raquette cordée verticalement et horizontalement (en tamis) à une tension variant avec la puissance ou l\'effet que l\'on veut obtenir. </item>
+        <item>Le terme rugby est utilisé pour désigner une famille de sports collectifs de ballon dont les règles sont issues du football pratiqué la première moitié du XIXe siècle à l\'école de Rugby en Angleterre. Codifié pour la première fois en 1846, le Rugby School Rules ou Rugby football se sépare définitivement des autres footballs en 1863, lors de la création de la Football Association, et sa fédération est fondée en 1871 : la Rugby Football Union. </item>
+        <item>Le golf est un sport de précision se jouant en plein air, qui consiste à envoyer une balle dans un trou à l\'aide de clubs. Le but du jeu consiste à effectuer, sur un parcours défini, le moins de coups possible. Précision, endurance, technicité, concentration sont des qualités primordiales pour cette activité. Codifié en Écosse en 1754 par le Royal Ancient Golf Club de Saint Andrews, ce sport a des origines diverses dont le jeu de mail. Il fut ainsi importé des Pays-Bas où il était pratiqué sous le nom de « colf » dès le XIIIe siècle. </item>
+        <item>La boxe est un sport de combat pratiqué depuis le XVIIIe siècle à un contre un, qui recourt à des frappes de percussion à l\'aide de gants matelassés.Elle désigne généralement la boxe anglaise. Par extension, de nombreuses disciplines ont pris le nom de boxe : les « boxes sportives » du XIXe siècle et XXe siècle comme les boxes pieds-poings (BPP) réglementées en Europe, la boxe américaine, le kick-boxing, la savate boxe française, le chausson ou le panache (cousins de la boxe française), les boxes asiatiques dites « martiales » comme la boxe chinoise, le kung-fu-wushu, la boxe khmère (Pradal Serey), la boxe birmane (bama lethwei) et la boxe thaïlandaise (muay-thaï) entre autres. </item>
+    </string-array>
+    <integer-array name="path">
+        <item>@drawable/foot</item>
+        <item>@drawable/basket</item>
+        <item>@drawable/tennis</item>
+        <item>@drawable/rugby</item>
+        <item>@drawable/golf</item>
+        <item>@drawable/boxe</item>
+    </integer-array>
+</resources>
